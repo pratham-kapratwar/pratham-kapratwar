@@ -4,20 +4,11 @@
 **pratham-kapratwar/pratham-kapratwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-Hii i am @ pratham-kapratwar.
-👋 I am interested in Full Stack Web Development.
-👀 I am currently learning Information Technology Engineering.
-💞️ I am looking for job as a Software Engineer (Fresher 2023 batch).
-📫 How to reach me
-Linkedin - https://www.linkedin.com/in/pratham-kapratwar/
-Email - prathamkapratwar1234@gmail.com
+- 👋 I am @ pratham-kapratwar.
+- 🔭 I am interested in Full Stack Web Development.
+- 🌱 I am currently learning Information Technology Engineering.
+- 💞️ I am looking for job as a Software Engineer (Fresher 2023 batch)
+- 📫 How to reach me
+      Linkedin - https://www.linkedin.com/in/pratham-kapratwar/
+      Email - prathamkapratwar1234@gmail.com
