@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 💞️ I am looking for job as a Software Engineer (Fresher 2023 batch).
 - 📫 How to reach me
       Linkedin - https://www.linkedin.com/in/pratham-kapratwar/
-      
       Email - prathamkapratwar1234@gmail.com
